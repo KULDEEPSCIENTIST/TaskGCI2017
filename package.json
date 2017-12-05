@@ -1,0 +1,22 @@
+{
+  "name": "printhelloworld",
+  "version": "2.0.0",
+  "description": "\"This Program Print Hello World\"",
+  "main": "index.js",
+  "scripts": {
+      "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KULDEEPSCIENTIST/TaskGCI2017.git"
+  },
+  "author": "KULDEEPSCIENTIST <kuldeepprasad64@gmail.com> (“https://github.com/KULDEEPSCIENTIST”)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KULDEEPSCIENTIST/TaskGCI2017/issues"
+  },
+  "homepage": "https://github.com/KULDEEPSCIENTIST/TaskGCI2017#readme",
+  "devDependencies": {
+    "typescript": "^2.6.2"
+  }
+}
